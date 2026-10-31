@@ -1,5 +1,6 @@
 # Placement-prediction-system-
 A Python-based Placement Prediction System that uses machine learning to predict student placement outcomes based on academic and other relevant data.
+
 ## Technologies Used
 - Python
 - Machine Learning
@@ -19,3 +20,9 @@ A Python-based Placement Prediction System that uses machine learning to predict
 ## Team Members
 - name: miyani vishva dipeshbhai 
 - Roll Number: 533
+
+## Features
+- Python-based Placement Prediction System
+- Uses Machine Learning
+- Uses CSV Dataset
+- Predicts Student Placement Outcomes
